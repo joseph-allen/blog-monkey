@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Rising Monkey</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on The Rising Monkey</description>
+    <title>Docs on The Rising Monkey</title>
+    <link>http://localhost:1313/tags/docs/</link>
+    <description>Recent content in Docs on The Rising Monkey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Land of The Rising Monkey</copyright>
-    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/configuration/</link>
