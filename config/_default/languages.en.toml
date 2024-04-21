@@ -1,16 +1,16 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "The Rising Monkey"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  logo = "img/logo-transparent.png"
+  secondaryLogo = "img/logo.png"
+  description = "Japanese travel vlog from a monkey living in Japan. I've lived in Tokyo, Okinawa, Kyoto, Nagano, Miyazaki."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
@@ -28,7 +28,7 @@ title = "Blowfish"
 #     { patreon = "https://www.patreon.com/username" },
     { tiktok = "https://www.tiktok.com/@landoftherisingmonkey" },
     { twitter = "https://twitter.com/TheRisingMonkey" },
-#     { x-twitter = "https://twitter.com/username" },
+    { x-twitter = "https://twitter.com/TheRisingMonkey" },
     { youtube = "https://www.youtube.com/channel/UCfznbBPk1vvb68jA9d6zXFw" },
 #     { ko-fi = "https://ko-fi.com/username" }
   ]
