@@ -1,0 +1,34 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Land of The Rising Monkey"
+  image = "img/logo.png"
+  headline = "Stories from Japan."
+  bio = "After living in Tokyo, Okinawa, Kyoto, Miyazaki & Nagano I've got a few stories."
+  links = [
+#     { email = "mailto:hello@your_domain.com" },
+#     { link = "https://link-to-some-website.com/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { facebook = "https://facebook.com/username" },
+    { instagram = "https://www.instagram.com/landoftherisingmonkey/" },
+#     { medium = "https://medium.com/username" },
+#     { patreon = "https://www.patreon.com/username" },
+    { tiktok = "https://www.tiktok.com/@landoftherisingmonkey" },
+    { twitter = "https://twitter.com/TheRisingMonkey" },
+#     { x-twitter = "https://twitter.com/username" },
+    { youtube = "https://www.youtube.com/channel/UCfznbBPk1vvb68jA9d6zXFw" },
+#     { ko-fi = "https://ko-fi.com/username" }
+  ]
