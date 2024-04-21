@@ -9,8 +9,8 @@ title = "The Rising Monkey"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/logo-transparent.png"
-  secondaryLogo = "img/logo.png"
-  description = "Japanese travel vlog from a monkey living in Japan. I've lived in Tokyo, Okinawa, Kyoto, Nagano, Miyazaki."
+  secondaryLogo = "img/logo-transparent.png"
+  description = "Japanese travel vlog from a monkey living in Japan. I've lived in Tokyo, Okinawa, Kyoto, Nagano, Miyazaki. Read travel tips, weird things that happened to me and advice!"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
