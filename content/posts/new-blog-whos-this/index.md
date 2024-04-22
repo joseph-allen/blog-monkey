@@ -8,9 +8,6 @@ tags: ["personal"]
 # series: ["Documentation"]
 # series_order: 4
 ---
-
-New Blog, who’s this?
-
 Hello, I’m Jay and I spent the last year living in Japan. As a British person, I had access to the Working Holiday Visa Scheme, which allows a young person under the age of 30 the right to live and work in Japan with almost no restriction.
 
 Over this year, my partner and I decided to move every month. We wanted to see as much of Japan as we could, we didn’t want our year to be spent in an international share house in Tokyo. Over the year we lived and worked in: Tokyo, Okinawa, Miyazaki, Kyoto and Nagano. We spent festival seasons traveling around seeing autumn leaves, snow sculptures and cherry blossoms.

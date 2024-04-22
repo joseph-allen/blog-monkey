@@ -18,15 +18,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/personal/feature-image.jpg" />
     </item>
     
-    <item>
-      <title>Post 2</title>
-      <link>http://localhost:1313/posts/personal/</link>
-      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/personal/</guid>
-      <description>New Blog, who’s this?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/personal/feature-image.jpg" />
-    </item>
-    
   </channel>
 </rss>
