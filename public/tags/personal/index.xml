@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Rising Monkey</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on The Rising Monkey</description>
+    <title>Personal on The Rising Monkey</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on The Rising Monkey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Land of The Rising Monkey</copyright>
-    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Blog, who&#39;s this?</title>
       <link>http://localhost:1313/posts/personal/</link>
@@ -15,17 +15,17 @@
       
       <guid>http://localhost:1313/posts/personal/</guid>
       <description>New Blog, who’s this?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/personal/feature-image.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/personal/feature-image%20copy.jpg" />
     </item>
     
     <item>
-      <title>Post 2</title>
+      <title>New Blog, who&#39;s this?</title>
       <link>http://localhost:1313/posts/personal/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/personal/</guid>
       <description>New Blog, who’s this?</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/personal/feature-image.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/personal/feature-image%20copy.jpg" />
     </item>
     
   </channel>
