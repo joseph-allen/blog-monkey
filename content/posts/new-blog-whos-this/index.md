@@ -3,7 +3,7 @@ title: "New Blog, who's this?"
 date: 2024-04-22
 draft: false
 description: "I spent a year in Japan, welcome to how I spent that year"
-slug: "personal"
+slug: "new-blog-whos-this"
 tags: ["personal"]
 # series: ["Documentation"]
 # series_order: 4

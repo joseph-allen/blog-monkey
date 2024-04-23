@@ -3,7 +3,7 @@ title: "One Day in Tokyo"
 date: 2024-04-23
 draft: false
 description: "With only one day in Japan, what should you do?"
-slug: "tokyo"
+slug: "one-day-in-tokyo"
 tags: ["tokyo"]
 # series: ["Documentation"]
 # series_order: 4
