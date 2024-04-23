@@ -8,7 +8,7 @@ tags: ["tokyo"]
 # series: ["Documentation"]
 # series_order: 4
 ---
-There are plenty of posts about what to do in a week in Tokyo, or ten days. Every time I go back to Tokyo, I do the same thing on my first day. I walk from Shinjuku, to Shibuya. On this route you see a slice of everything people want to see in Tokyo.
+There are plenty of posts about what to do in a week in Tokyo, or fifteen days. Every time I go back to Tokyo, I do the same thing on my first day. I walk from Shinjuku, to Shibuya. On this route you see a slice of everything people want to see in Tokyo.
 
 **Shinjuku**, the busiest train station in the world. The party area. Every international and national resturant chain in Japan is represented here. If you want to see Godzilla, you can. If you want to eat sushi, you can.
 
