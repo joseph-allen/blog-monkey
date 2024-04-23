@@ -10,22 +10,22 @@
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>One Day in Tokyo</title>
-      <link>http://localhost:1313/posts/tokyo/</link>
+      <link>http://localhost:1313/posts/one-day-in-tokyo/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tokyo/</guid>
+      <guid>http://localhost:1313/posts/one-day-in-tokyo/</guid>
       <description>There are plenty of posts about what to do in a week in Tokyo, or fifteen days.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tokyo/feature-image.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/one-day-in-tokyo/feature-image.jpg" />
     </item>
     
     <item>
       <title>New Blog, who&#39;s this?</title>
-      <link>http://localhost:1313/posts/personal/</link>
+      <link>http://localhost:1313/posts/new-blog-whos-this/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/personal/</guid>
+      <guid>http://localhost:1313/posts/new-blog-whos-this/</guid>
       <description>Hello, I’m Jay and I spent the last year living in Japan.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/personal/feature-image.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/new-blog-whos-this/feature-image.jpg" />
     </item>
     
   </channel>
