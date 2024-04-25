@@ -5,4 +5,5 @@ Disallow: /posts/tags/
 Disallow: /posts/categories/
 Disallow: /posts/*?*
 Allow: /posts/
+Allow: /
 Sitemap: https://landoftherisingmonkey.com/sitemap.xml
