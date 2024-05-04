@@ -1,3 +1,9 @@
 User-agent: *
+User-agent: *
+Disallow: /posts/admin/
+Disallow: /posts/tags/
+Disallow: /posts/categories/
+Disallow: /posts/*?*
+Allow: /posts/
 Allow: /
 Sitemap: https://landoftherisingmonkey.com/sitemap.xml
