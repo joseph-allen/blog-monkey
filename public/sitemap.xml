@@ -1,33 +1,33 @@
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://landoftherisingmonkey.com/posts/land-of-the-taco-rice/</loc>
+    <loc>https://therisingmonkey.com/posts/land-of-the-taco-rice/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://landoftherisingmonkey.com/posts/</loc>
+    <loc>https://therisingmonkey.com/posts/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://landoftherisingmonkey.com/</loc>
+    <loc>https://therisingmonkey.com/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://landoftherisingmonkey.com/posts/one-day-in-tokyo/</loc>
+    <loc>https://therisingmonkey.com/posts/one-day-in-tokyo/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://landoftherisingmonkey.com/posts/new-blog-whos-this/</loc>
+    <loc>https://therisingmonkey.com/posts/new-blog-whos-this/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
