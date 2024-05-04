@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://therisingmonkey.com/sitemap.xml
+Sitemap: https://landoftherisingmonkey.com/sitemap.xml
