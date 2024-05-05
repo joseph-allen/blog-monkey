@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
+  <url>
+    <loc>https://landoftherisingmonkey.com/posts/work-exchange-in-japan/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
   <url>
     <loc>https://landoftherisingmonkey.com/posts/land-of-the-taco-rice/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
