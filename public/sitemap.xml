@@ -3,14 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://landoftherisingmonkey.com/posts/aquariums-and-japan/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://landoftherisingmonkey.com/posts/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://landoftherisingmonkey.com/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
